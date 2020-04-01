@@ -1,0 +1,123 @@
+<style>
+    h1, h2, h3 {
+      font-weight: bold;
+      text-align: center;
+    }
+    h2, h3 {
+      font-family: arial, sans-serif;
+      color: red;
+    }
+    h1 {
+      font-family: arial black, sans-serif;
+      font-size: 20;
+      color: red;
+    }
+    h2 {
+      font-size: 20;
+    }
+    h3 {
+      font-size: 18;
+    }
+    body {
+      font-family: arial, sans-serif;
+      font-size: 12;
+    }
+    th, td {
+      border: 2px solid black;
+      color: black;
+      padding: 5px;
+      text-align: center;
+    }
+    table {
+      font-family: arial;
+      font-size: 12;
+      border: 3px solid black;
+      border-collapse: collapse;
+      width: 60%;
+      height: auto;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    th {
+      background-color:	#F0F8FF;
+      font-family: arial black, sans-serif;
+      font-size: 20;
+      font-weight: bold;
+    }
+    td {
+      color: #696969;
+      background-color: #FFF8DC;
+      font-family: arial, sans-serif;
+      font-size: 12;
+      font-style: italic;
+    }
+    img {
+      max-width: 60%;
+      height: auto;
+      margin-left: auto;
+      margin-right: auto;
+      display: block;
+    }
+    ul, ol {
+      padding: 20px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    ul li, ol li {
+      padding: 5px;
+      margin-left: 20px;
+      text-align: center;
+    }
+    ul {
+      background: #3399ff;
+      width: 400px;
+      }
+    ul li {
+      background: #cce5ff;
+      color: darkgreen;
+      }
+    ol {
+      background: #ff9999;
+      width: 150px;
+      }
+    ol li {
+      background: #ffe5e5;
+      color: black;
+      }
+    .row {
+        margin-left: 50px;
+        color: black;
+        text-align: center;
+        font-weight: bold;
+      }
+    .hyperlink-index {
+      text-decoration: underline;
+    }
+    .alert {
+        margin-left: 50px;
+        text-align: center;
+        font-weight: bold;
+    }
+    .alert-link {
+        text-align: center;
+        font-weight: bold;
+        text-decoration: underline;
+    }
+    #table {
+      background-color: #D8BFD8;
+    }
+    #characters {
+      background-color: #EEE8AA;
+    }
+    #improvements {
+      background-color: #E0FFFF;
+    }
+    .centered-title {
+      text-align: center;
+    }
+    @media print {
+      #Table-Title {
+        color: green;
+      }
+    }
+</style>
